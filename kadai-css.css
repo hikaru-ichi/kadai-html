@@ -3,6 +3,7 @@ header {
     background-color: #ffcccc;
 }
 #wrapper {
+    width: 1000px;
     display: flex;
 }
 #main {
